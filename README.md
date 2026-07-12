@@ -38,7 +38,7 @@ Program ini mendeteksi objek sampah pada citra menggunakan teknik pengolahan cit
 ```text
 dataset/
 output/
-Deteksi_Sampah_PCD.ipynb
+Deteksi_Sampah.ipynb
 README.md
 ```
 
